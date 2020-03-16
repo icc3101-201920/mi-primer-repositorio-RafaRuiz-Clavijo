@@ -7,6 +7,7 @@ namespace Mi_proyecto
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("2x2 = 4");
         }
     }
 }
